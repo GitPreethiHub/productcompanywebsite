@@ -35,10 +35,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-home.html
 """
-<!DOCTYPE html>
-<html lang="en">
+   <!DOCTYPE html>
+   <html lang="en">
   <head>
     <title>EduSoft Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
