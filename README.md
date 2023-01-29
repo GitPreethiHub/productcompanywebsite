@@ -34,18 +34,18 @@ Validate the HTML code.
 
 Publish the website in the given URL.
 
-## PROGRAM :
-"""
-   <!DOCTYPE html>
-   <html lang="en">
-  <head>
-    <title>EduSoft Private Limited</title>
-    <link rel="stylesheet" href="./css/layout.css" />
+### PROGRAM :
+     
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+     <title>EduSoft Private Limited</title>
+     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
+    </head>
 
-  <body>
-    <div class="container">
+     <body>
+      <div class="container">
       <div class="banner">EduSoft Private Limited.</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
@@ -77,17 +77,16 @@ Publish the website in the given URL.
               <li>Anywhere, anytime and secure access</li>
             </ul>
           </div>
-        </div>
-      </div>
-      <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
-      </div>
-    </div>
-  </body>
-</html>
-"""
+           </div>
+          </div>
+         <div class="footer">
+         Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+         </div>
+         </div>
+         </body>
+         </html>
 
-## OUTPUT:
+### OUTPUT:
 ![output](./Home8.png)
 
 ![Products](./Products.png)
